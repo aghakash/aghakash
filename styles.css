@@ -216,6 +216,20 @@ html, body{
    }
 }
 
+@media screen and (max-height: 992px) and (min-height: 200px) {
+  .main-container,.imgback,.do-for,.bkcont {
+    height: auto;
+  }
+  .main-btn,.btn{
+   height: auto;
+   width:auto;
+   }
+}
+
+
+
+
+
 
 
 
