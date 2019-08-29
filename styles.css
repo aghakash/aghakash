@@ -206,7 +206,7 @@ html, body{
 
 
 
-@media screen and (max-width: 992px) and (min-width: 200px) {
+@media screen and (max-width: 992px) and (min-width: 100px) {
   .main-container,.imgback,.do-for,.bkcont {
     height: auto;
   }
@@ -216,7 +216,7 @@ html, body{
    }
 }
 
-@media screen and (max-height: 992px) and (min-height: 200px) {
+@media screen and (max-height: 992px) and (min-height: 100px) {
   .main-container,.imgback,.do-for,.bkcont {
     height: auto;
   }
