@@ -215,7 +215,7 @@ html, body{
 
 
 
-@media only screen and (max-width: 786px) and (max-width: 200px){
+@media only screen and (max-width: 786px) and (min-width: 200px){
     .main-container,.imgback,.do-for,.bkcont {
     height: auto;
   }
@@ -225,7 +225,7 @@ html, body{
    }
 }
 
-@media only screen and (max-height: 786px) and (max-height: 200px){
+@media only screen and (max-height: 786px) and (min-height: 200px){
     .main-container,.imgback,.do-for,.bkcont {
     height: auto;
   }
@@ -246,12 +246,4 @@ html, body{
    width:auto;
    }
 }
-
-@media all and (max-width: 479px) {
-   .main-btn,.btn{
-   height: auto;
-   width:auto;
-   }
-}
-
 
