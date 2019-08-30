@@ -247,6 +247,7 @@ html, body{
 @media only screen and (orientation: portrait) {
 .main-container,.imgback,.do-for,.bkcont {
     height: auto;
+    flex-direction: column;
   }
   .main-btn,.btn{
    height: auto;
