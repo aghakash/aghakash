@@ -248,10 +248,7 @@ html, body{
 }
 
 @media all and (max-width: 479px) {
-    .main-container,.imgback,.do-for,.bkcont {
-    height: auto;
-  }
-  .main-btn,.btn{
+   .main-btn,.btn{
    height: auto;
    width:auto;
    }
